@@ -1,3 +1,3 @@
 first commit for feature
-commit 2
+conflict
 feature done
